@@ -2,7 +2,7 @@ baseURL = "https://ryankerry.io/"
 languageCode = "en-us"
 title = "RK - Personal blog"
 theme = "hugo-lithium-theme"
-googleAnalytics = ""
+googleAnalytics = "UA-138519371-1"
 disqusShortname = ""
 
 [permalinks]
@@ -14,10 +14,10 @@ disqusShortname = ""
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
-    url = ""
+    url = "https://github.com/Ryank90"
 [[menu.main]]
     name = "Twitter"
-    url = ""
+    url = "https://twitter.com/RyanKerry1"
 
 [params]
     description = ""

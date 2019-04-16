@@ -1,5 +1,5 @@
 ---
-title: "I’ll be talking on the Keynote at Google Next London."
+title: "I’ll be talking on the Keynote at Google Next London"
 date: 2017-04-20T10:03:04+01:00
 ---
 
