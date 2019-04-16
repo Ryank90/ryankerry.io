@@ -1,4 +1,4 @@
-baseURL = "http://ryankerry.io/"
+baseURL = "https://ryankerry.io/"
 languageCode = "en-us"
 title = "RK - Personal blog"
 theme = "hugo-lithium-theme"
