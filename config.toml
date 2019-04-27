@@ -16,6 +16,9 @@ disqusShortname = ""
     name = "GitHub"
     url = "https://github.com/Ryank90"
 [[menu.main]]
+    name = "Gitlab"
+    url = "https://gitlab.com/rk90"
+[[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/RyanKerry1"
 
