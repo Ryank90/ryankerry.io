@@ -1,6 +1,7 @@
 ---
 title: "Principles of successful engineering teams"
 date: 2019-04-27T08:07:01+01:00
+type: "posts"
 ---
 
 No two teams are ever the same. Establishing core principles to aid in guiding engineering teams is vital to their success. Below is a list of items that are highlighting important priniciples of a succesful team's philosophy.

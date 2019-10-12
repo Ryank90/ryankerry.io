@@ -1,29 +1,36 @@
 baseURL = "https://ryankerry.io/"
 languageCode = "en-us"
 title = "RK - Personal blog"
-theme = "hugo-lithium-theme"
+theme = "tale"
 googleAnalytics = "UA-138519371-1"
 disqusShortname = ""
 
 [permalinks]
-    post = "/:year/:month/:day/:title/"
+    post = "/posts/:title/"
     page = "/:title/"
 
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-[[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/Ryank90"
-[[menu.main]]
-    name = "Gitlab"
-    url = "https://gitlab.com/rk90"
-[[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/RyanKerry1"
+[menu]
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        title = "About"
+        url = "/about/"
+    [[menu.main]]
+        name = "GitHub"
+        url = "https://github.com/Ryank90"
+    [[menu.main]]
+        name = "Gitlab"
+        url = "https://gitlab.com/rk90"
+    [[menu.main]]
+        name = "Twitter"
+        url = "https://twitter.com/RyanKerry1"
 
 [params]
     description = ""
+
+    paginate = 5
+
+    css = ["static/assets/css/custom.css"]
 
     # path to the favicon, under "static"
     favicon = "favicon.ico"
@@ -36,3 +43,6 @@ disqusShortname = ""
 
     [params.icon]
     url = "favicon.ico"
+
+    [Author]
+    name = "Ryan Kerry"

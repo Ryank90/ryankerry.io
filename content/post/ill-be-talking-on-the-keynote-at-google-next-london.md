@@ -1,6 +1,7 @@
 ---
 title: "I’ll be talking on the Keynote at Google Next London"
 date: 2017-04-20T10:03:04+01:00
+type: "posts"
 ---
 
 You will be able to catch me on the Day 1 Keynote at Google NEXT 2017 in London alongside Google Cloud CTO Brian Stevens. I will be talking about the global migration of Lush’s e-commerce infrastructure to Google Cloud in a record-breaking 22 days.
